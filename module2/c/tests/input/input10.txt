@@ -1,0 +1,5 @@
+search 66
+min
+max
+set 1 20
+print

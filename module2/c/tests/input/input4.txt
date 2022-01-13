@@ -1,0 +1,16 @@
+add 8 10
+add 4 14
+add 7 15
+add 9 11
+add 3 13
+add 5 16
+add 88 1
+add 11 2
+add 6 18
+set 11 121
+set 6 36
+set 8 64
+set 5 25
+set 88 100500
+set 88 55
+print

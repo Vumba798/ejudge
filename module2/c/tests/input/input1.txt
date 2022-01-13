@@ -1,0 +1,11 @@
+add 8 10
+add 4 14
+add 7 15
+add 9 11
+add 3 13
+add 5 16
+add 88 1
+add 11 2
+add 6 18
+add 1 22
+print

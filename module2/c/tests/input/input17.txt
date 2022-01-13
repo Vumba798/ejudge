@@ -1,0 +1,35 @@
+add 0 1
+add -1 -100
+add -4 -400
+add -7 -700
+add -3 -300
+add -5 -500
+print
+min
+max
+search -3
+search -1
+search 1
+search 0
+add -2147483648 -1
+add 2147483647 -2
+print
+min
+max
+search -1
+search -2147483648
+search -2147483647
+add -9223372036854775808 -3
+add 9223372036854775807 -4
+print
+min
+max
+search -1
+search -9223372036854775808
+search -9223372036854775807
+search 9223372036854775807
+search 9223372036854775806
+delete -2147483648
+print
+extract
+print

@@ -1,0 +1,31 @@
+set 31 0.125
+add 597
+print
+add 747
+add 425
+add 28
+add 265
+print
+add 807
+add 208
+add 571
+add 476
+add 110
+print
+add 349
+add 414
+add 43
+add 776
+add 309
+print
+add 794
+add 17
+add 241
+add 79
+add 410
+print
+search 28
+search 29
+search 37
+search 46
+search 3

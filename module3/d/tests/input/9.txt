@@ -1,0 +1,22 @@
+set 19 0.400000
+add 0
+add 1
+add 5
+add 8
+add 11
+add 12
+add 13
+add 14
+add 16
+add 21
+add 22
+add 24
+add 25
+add 27
+add 28
+add 29
+add 32
+add 33
+print
+search 1
+search 0

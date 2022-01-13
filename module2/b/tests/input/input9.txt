@@ -1,0 +1,30 @@
+add 8 10
+add 4 14
+add 7 15
+set 8 11
+add 3 13
+add 5 16
+add 45 1
+add 46 2
+delete 46
+add 10 100
+delete 3
+print
+delete 5
+add 6 36
+add 9 81
+print
+delete 8
+print
+delete 45
+delete 100
+print
+delete 7
+delete 10
+print
+delete 9
+delete 4
+delete 6
+print
+delete 8
+print

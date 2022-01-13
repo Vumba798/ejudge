@@ -1,0 +1,19 @@
+set_isze 5
+apop
+popa
+pusha 1
+pusha 2
+pusha 3
+pusha 4
+pusha 5
+printa
+set_size 3
+push 1
+push 2
+push 100500
+pusha 6
+popa
+pusha 6
+printa
+print
+

@@ -1,0 +1,14 @@
+set_size 5
+pop
+print
+push 1
+push 2
+push 3
+push 4
+push 5
+print
+push 6
+pop
+push 6
+print
+

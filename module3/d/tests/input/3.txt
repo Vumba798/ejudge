@@ -1,0 +1,11 @@
+set 2 0.250
+add 7
+add 5
+add 14
+print
+search 7
+search 10
+search 15
+search 14
+search 5
+search 13

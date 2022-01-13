@@ -1,0 +1,3003 @@
+set_size 2048
+print
+pop
+push 42
+push на
+push то
+pop
+pop
+pop
+pop
+pop
+push э
+pop
+push на
+pop
+pop
+push вет
+pop
+push на
+pop
+push вопглав
+pop
+push от
+push то42
+pop
+push ный
+push глав
+push глав
+push ный
+pop
+push на
+pop
+pop
+pop
+pop
+pop
+push вопглав
+push отэ
+push рос42
+push росный
+pop
+push навоп
+push воп
+pop
+push эот
+pop
+pop
+push -на
+pop
+pop
+push рос42
+push э
+push воп-
+push рос42
+push на
+push воп
+pop
+push от-
+print
+push воп
+print
+print
+push э
+push э42
+push вет
+push глав
+pop
+pop
+push это
+push на-
+push вопрос
+push -вет
+push наглав
+pop
+pop
+pop
+pop
+push э
+print
+pop
+pop
+push вопглав
+push э
+push 42э
+pop
+push ветный
+push вопглав
+pop
+pop
+push глав-
+print
+push на
+push 42глав
+pop
+pop
+pop
+pop
+pop
+pop
+push вет
+push э42
+push наот
+push ный
+push то-
+push вет
+push 42
+pop
+pop
+push росный
+push главрос
+push рос-
+push вопна
+pop
+pop
+push ныйглав
+pop
+push росвет
+pop
+push ныйто
+push росвоп
+push вопна
+push 42то
+pop
+push глав
+pop
+pop
+push э
+push воп4
+pop
+push ныйэ
+push ныйвет
+pop
+push вет
+push рос
+push на
+push -
+pop
+pop
+push ныйэ
+pop
+push отглав
+push э
+pop
+pop
+push главэ
+pop
+pop
+pop
+push ветглав
+push на
+pop
+pop
+push ныйто
+push на
+pop
+push тоный
+print
+pop
+pop
+pop
+push вопна
+push воп5
+pop
+print
+pop
+push эот
+pop
+push то
+pop
+pop
+pop
+pop
+pop
+pop
+pop
+push э
+pop
+push 42рос
+pop
+print
+pop
+pop
+pop
+pop
+push товоп
+push глав
+pop
+push вет
+pop
+pop
+pop
+pop
+print
+pop
+push 42вет
+print
+pop
+push 42ный
+pop
+pop
+pop
+pop
+pop
+pop
+pop
+pop
+push ветот
+pop
+pop
+push то
+push э
+push вопглав
+push главрос
+push 42-
+pop
+pop
+pop
+pop
+push рос
+pop
+pop
+pop
+pop
+push ветвоп
+push вет
+push э
+push от-
+push ный
+pop
+pop
+pop
+pop
+pop
+pop
+pop
+pop
+push вет42
+pop
+push воп6
+push глав
+pop
+pop
+pop
+pop
+pop
+pop
+push глав
+push 42
+push то
+print
+push вет
+push э-
+pop
+push вет
+pop
+pop
+push э
+push 42воп
+push на42
+print
+pop
+pop
+pop
+pop
+pop
+push -42
+push -то
+pop
+pop
+print
+pop
+pop
+pop
+push воп7
+pop
+push отна
+pop
+pop
+push воп8
+pop
+pop
+pop
+pop
+push 42то
+push вопвет
+push воп-
+pop
+push ныйот
+push от
+pop
+print
+push 42-
+pop
+pop
+push ветто
+push отный
+pop
+push главэ
+push главвоп
+push ный
+pop
+push эна
+pop
+push -
+push от
+pop
+push главрос
+push росглав
+pop
+pop
+pop
+push вет
+pop
+pop
+push вет
+pop
+pop
+pop
+push росвоп
+pop
+push то
+push вопвет
+push отрос
+push 42
+push ныйто
+pop
+push эвоп
+push 42от
+push отна
+print
+push 42
+pop
+push на
+pop
+push то
+push рос
+pop
+push рос
+push наот
+pop
+pop
+pop
+pop
+pop
+push росный
+pop
+pop
+push -глав
+push на
+push главвет
+push -вет
+print
+push тоэ
+pop
+push вет
+pop
+push на
+pop
+pop
+push от
+pop
+push тоот
+print
+push э
+push 42глав
+push на
+pop
+pop
+pop
+pop
+pop
+push ветна
+push -то
+pop
+push ветный
+pop
+push росвоп
+pop
+pop
+push э
+push воп9
+print
+pop
+pop
+pop
+push рос
+pop
+push рос
+push э
+push 42
+pop
+push главный
+pop
+pop
+pop
+push э
+push эвет
+pop
+pop
+pop
+pop
+pop
+push на
+pop
+pop
+push ответ
+push наот
+push от
+pop
+pop
+print
+push вет
+pop
+pop
+push рос
+push то
+push то42
+pop
+pop
+push отглав
+pop
+pop
+push ный-
+print
+pop
+pop
+print
+push 42
+pop
+pop
+push 42
+pop
+push вет
+pop
+pop
+pop
+push навоп
+pop
+push глав
+pop
+push 42воп
+pop
+push ныйна
+pop
+pop
+pop
+pop
+pop
+push 42ный
+push навет
+pop
+push тоглав
+push рос
+push наглав
+pop
+pop
+pop
+push воп
+push э-
+pop
+pop
+push э
+push ный-
+push 42воп
+push от
+push -
+push э42
+pop
+pop
+push ный42
+push то
+push главна
+pop
+pop
+push -воп
+push рос42
+push ный
+push вет42
+pop
+pop
+push навоп
+pop
+push от-
+push на
+push глав
+push воп
+pop
+push ветто
+pop
+push вет
+pop
+push глав
+pop
+pop
+push 42вет
+push ныйрос
+push воп
+pop
+pop
+push -
+pop
+pop
+pop
+pop
+pop
+pop
+pop
+push 42ный
+push навоп
+pop
+push глав
+push 42
+pop
+pop
+pop
+pop
+push рос
+pop
+print
+push от
+push ветрос
+push вет
+push 42
+print
+pop
+push от
+pop
+pop
+push ветный
+push главна
+pop
+push воп
+push вет
+pop
+push вопрос
+push -
+pop
+print
+print
+pop
+push на
+push -то
+push 42глав
+pop
+pop
+push на
+pop
+pop
+push от
+pop
+pop
+pop
+pop
+push -вет
+pop
+push ветэ
+push отэ
+pop
+push ный
+pop
+pop
+push ный
+push главвоп
+pop
+pop
+push нато
+pop
+pop
+pop
+pop
+push вет42
+pop
+pop
+pop
+pop
+pop
+pop
+push на
+pop
+pop
+pop
+pop
+push глав
+pop
+pop
+push воп
+push главна
+push от
+push воп
+push вет
+pop
+pop
+pop
+pop
+push 42вет
+push вет-
+pop
+push на
+push воп
+push вопна
+pop
+pop
+pop
+push 42на
+pop
+pop
+pop
+pop
+push -
+push э
+pop
+push рос
+pop
+push от
+pop
+push воп
+push ный
+print
+pop
+push ветглав
+pop
+pop
+pop
+print
+pop
+pop
+pop
+pop
+pop
+push ный
+pop
+push э
+pop
+push нарос
+push то
+pop
+push навет
+pop
+pop
+pop
+push тона
+pop
+push ответ
+push на
+pop
+push то
+push ный
+pop
+pop
+print
+push ныйна
+pop
+pop
+pop
+push ветэ
+push воп
+pop
+push воп
+pop
+pop
+push рос
+push ный
+pop
+pop
+push нато
+push вет
+pop
+pop
+pop
+push тоэ
+push э
+pop
+push глав
+push то
+push -
+pop
+pop
+pop
+push -воп
+pop
+push -
+pop
+print
+pop
+pop
+pop
+pop
+push рос
+pop
+push рос
+push глав42
+push вопвет
+pop
+pop
+pop
+push ветвоп
+pop
+push ный-
+pop
+pop
+pop
+pop
+push рос
+push воп
+pop
+push глав42
+push рос
+pop
+pop
+pop
+push росглав
+print
+pop
+pop
+push тоот
+pop
+push 42
+pop
+pop
+pop
+push рос
+print
+push -воп
+push от
+push ветот
+push вопрос
+push рос
+pop
+pop
+push воп
+pop
+pop
+push глав
+pop
+pop
+pop
+push на
+pop
+pop
+print
+push -глав
+push ветто
+push э
+push ный
+push э
+push вет
+pop
+pop
+push 42
+print
+pop
+push наный
+push глав
+pop
+pop
+push э
+push нарос
+pop
+push вет
+pop
+push ный
+push вет
+pop
+push отто
+pop
+push 42то
+push воп
+pop
+push э
+pop
+pop
+pop
+push вопрос
+push глав
+pop
+pop
+push на
+push вопот
+push э
+push от
+pop
+push эглав
+push росвоп
+push ный42
+pop
+pop
+pop
+print
+pop
+push ный
+pop
+push воп
+pop
+pop
+push на42
+pop
+push глав-
+push э
+pop
+push рос
+push эот
+pop
+pop
+pop
+pop
+pop
+pop
+print
+push 42
+push то
+push отвоп
+pop
+pop
+push на
+push -на
+push -
+push э
+pop
+pop
+pop
+pop
+push глав
+pop
+push рос42
+push глав
+pop
+push 42на
+pop
+pop
+pop
+push 42
+pop
+pop
+pop
+pop
+pop
+pop
+pop
+push воп
+push рос42
+print
+push главот
+push то
+push эвоп
+pop
+pop
+pop
+push торос
+pop
+print
+pop
+pop
+print
+push воп
+push на
+push -
+push 42-
+push главот
+push ный42
+pop
+pop
+push глав
+print
+push ныйвет
+pop
+push глав
+pop
+push -
+push главвоп
+pop
+pop
+pop
+print
+push от
+pop
+print
+pop
+push на
+print
+push 42
+pop
+push от
+push 42
+pop
+pop
+pop
+push от
+pop
+pop
+print
+pop
+push 42
+push 42
+push вопна
+push глав
+pop
+push на
+push то
+push нато
+push 42
+push от
+pop
+pop
+push отглав
+pop
+push э
+push наглав
+pop
+pop
+pop
+pop
+push э
+push то
+push воп
+pop
+pop
+push ный
+push главрос
+push воп
+push вопвет
+pop
+push ветто
+push -
+push воп
+push эвет
+pop
+pop
+pop
+pop
+push ветто
+push -42
+pop
+pop
+pop
+pop
+push ныйна
+push тоглав
+push вет
+pop
+print
+pop
+push рос
+push рос
+push рос
+pop
+pop
+pop
+push вет
+pop
+push 42то
+pop
+push то42
+pop
+pop
+pop
+pop
+pop
+push отрос
+print
+pop
+push от42
+pop
+pop
+pop
+push э
+push 42то
+push эный
+pop
+pop
+pop
+push -э
+push наный
+pop
+pop
+push отна
+push глав
+pop
+push 42
+push отэ
+push эрос
+pop
+push глав
+pop
+push э
+pop
+push 42вет
+pop
+pop
+pop
+pop
+print
+push эвоп
+push глав-
+push навоп
+pop
+push -
+push воп
+push наэ
+push тоглав
+pop
+push 42
+pop
+push ветрос
+push от
+pop
+pop
+push э
+pop
+pop
+push глав
+pop
+pop
+pop
+pop
+pop
+push воп
+pop
+pop
+pop
+push то
+push то-
+pop
+push вопрос
+pop
+pop
+pop
+pop
+pop
+pop
+pop
+push навет
+push -
+pop
+pop
+push вет
+push ветрос
+pop
+pop
+push наэ
+pop
+pop
+push -
+pop
+pop
+print
+pop
+pop
+pop
+push от
+push на
+pop
+pop
+push воп
+push вет
+push то
+pop
+pop
+pop
+pop
+pop
+push росглав
+push воп
+pop
+push тоглав
+pop
+pop
+pop
+push это
+push э
+push рос42
+push глав
+push эна
+push ныйглав
+pop
+print
+push рос
+pop
+pop
+pop
+pop
+pop
+push -42
+pop
+pop
+pop
+pop
+pop
+pop
+push ныйрос
+print
+pop
+print
+print
+pop
+push эна
+push ветот
+push эный
+print
+pop
+pop
+pop
+pop
+pop
+push -на
+pop
+push вет
+pop
+push глав
+push наот
+push 42
+pop
+push тона
+pop
+pop
+pop
+push 42на
+pop
+push наный
+pop
+pop
+push от42
+push от
+push главвоп4
+push ветвоп
+push на
+pop
+push росвоп
+push 42
+push ный
+push вет
+push тоэ
+pop
+push то42
+pop
+push 42
+print
+push росэ
+push главвет
+push тоэ
+pop
+pop
+push ветэ
+push -
+push -
+pop
+pop
+pop
+push ный
+push нато
+pop
+pop
+pop
+push рос
+pop
+pop
+pop
+push вопто
+push на
+push отный
+push навоп
+pop
+print
+pop
+push 42
+pop
+push главвет
+push ветэ
+push навет
+pop
+push ныйот
+push ный
+pop
+push э
+pop
+pop
+push воп
+push ныйрос
+pop
+push то-
+pop
+pop
+pop
+pop
+print
+push на
+push нарос
+push рос
+pop
+pop
+pop
+pop
+push глав
+pop
+push от
+pop
+pop
+pop
+pop
+pop
+pop
+pop
+pop
+pop
+pop
+pop
+push отна
+push то-
+push 42ный
+pop
+pop
+push -ный
+pop
+pop
+push от
+pop
+pop
+pop
+pop
+pop
+push на
+pop
+pop
+push -
+push на
+push то
+push -от
+pop
+pop
+pop
+push 42глав
+push 42глав
+push ный
+pop
+pop
+push э
+push -ный
+push ныйвет
+push -
+pop
+pop
+push на
+push то
+push -42
+pop
+push 42
+pop
+pop
+pop
+push отна
+pop
+pop
+push росто
+push -то
+print
+pop
+push на
+push ныйот
+push глав
+pop
+push вет
+push воп
+push -
+push от
+pop
+push рос
+pop
+pop
+pop
+push тоный
+push вет
+print
+pop
+pop
+push то
+push э
+pop
+push то
+pop
+push воп
+push вопвет
+push на-
+push на-
+push нато
+push рос
+push отэ
+push 42э
+pop
+push ный
+pop
+pop
+pop
+pop
+pop
+print
+push э
+pop
+pop
+pop
+push ныйэ
+push -вет
+push росот
+pop
+pop
+pop
+push от
+pop
+push ветглав
+push воп-
+push глав
+push глав
+push росвоп
+push то
+push наэ
+pop
+pop
+pop
+push главот
+push 42воп
+push это
+push глав
+pop
+pop
+pop
+push на
+pop
+push 42
+pop
+pop
+pop
+push ветто
+push 42от
+pop
+push воп
+pop
+push рос
+pop
+print
+pop
+pop
+push -вет
+pop
+push 42
+push 42э
+pop
+pop
+push -э
+pop
+pop
+push ветвоп
+pop
+push ныйот
+push рос
+push наэ
+push вопна
+pop
+pop
+pop
+push на42
+pop
+pop
+pop
+pop
+push на
+pop
+push росот
+pop
+push воп
+pop
+push воп
+push воп
+pop
+push то-
+push отна
+pop
+push вопглав
+push вет
+push то
+pop
+pop
+pop
+pop
+push нато
+push рос
+push эвет
+pop
+push -
+pop
+push вопный
+pop
+pop
+push глав
+pop
+pop
+print
+push тона
+pop
+push -
+push ветна
+print
+push глав
+pop
+pop
+pop
+push то
+push глав
+pop
+pop
+push воп40
+pop
+pop
+push эрос
+pop
+pop
+pop
+push тоот
+pop
+pop
+pop
+push главрос
+pop
+push эвоп
+pop
+push э
+pop
+pop
+push вет
+push отный
+push от
+pop
+push 42
+pop
+pop
+push ныйвет
+push ный
+pop
+pop
+push -то
+pop
+pop
+push ветто
+pop
+push главна
+pop
+pop
+pop
+pop
+push то
+pop
+push воп
+push на
+push навет
+push ный
+push отэ
+pop
+push э
+pop
+pop
+pop
+push главто
+push тоглав
+push ветрос
+pop
+push рос
+pop
+push ответ
+pop
+push 42
+push воп42
+pop
+push тоэ
+pop
+push -42
+pop
+push воп
+push рос
+print
+push то
+pop
+push отрос
+push -воп
+push глав
+push рос
+push -
+print
+pop
+pop
+push э
+pop
+push рос
+push ныйэ
+print
+pop
+pop
+push ный-
+push глав
+pop
+push ветот
+push ныйвоп
+pop
+pop
+push глав
+push на
+push ныйвет
+pop
+pop
+pop
+print
+pop
+pop
+push э-
+push рос
+push наглав
+pop
+pop
+push -глав
+pop
+push воп
+pop
+pop
+push отвоп
+pop
+pop
+pop
+push ный
+push 42вет
+pop
+push росэ
+pop
+push э
+pop
+pop
+push ветглав
+pop
+push 42
+pop
+push ветный
+push -
+push 42глав
+pop
+print
+push ныйрос
+push глав
+pop
+push воп
+pop
+pop
+push 42
+push вопна
+pop
+pop
+pop
+pop
+push -то
+push ныйот
+pop
+pop
+push 42глав
+pop
+push ный
+push на42
+push 42от
+push наэ
+push глав
+push то
+pop
+pop
+push наглав
+push э-
+push то-
+pop
+push 42то
+push то
+pop
+push от
+push 42э
+pop
+pop
+push ный
+push вопный
+push глав
+print
+pop
+push наглав
+pop
+push воп
+pop
+print
+push вет
+pop
+pop
+pop
+pop
+push от
+push вет
+push -вет
+push рос
+push глав
+push рос
+pop
+pop
+push глав
+pop
+push э
+push рос
+pop
+pop
+pop
+pop
+push наный
+pop
+push наэ
+pop
+pop
+push то-
+push э42
+push э
+pop
+push рос
+pop
+pop
+pop
+pop
+pop
+pop
+pop
+push ный
+push э
+pop
+push рос-
+pop
+pop
+pop
+push глав
+pop
+pop
+push это
+pop
+push отный
+pop
+print
+pop
+push то42
+pop
+pop
+pop
+push рос
+pop
+push воп
+pop
+pop
+push глав-
+pop
+pop
+pop
+pop
+pop
+pop
+pop
+push тона
+pop
+pop
+push вопглав
+pop
+pop
+pop
+print
+pop
+push э
+push -рос
+pop
+pop
+push вет
+push то-
+pop
+push 42
+pop
+pop
+pop
+push 42глав
+pop
+push от
+pop
+pop
+push на
+push отвоп
+pop
+pop
+pop
+pop
+push ответ
+push на
+push наот
+pop
+push главный
+push э
+pop
+push вопрос
+push э
+pop
+push это
+push э
+pop
+push ный
+push вет
+push ветто
+pop
+push глав
+push э42
+push ныйна
+push глав-
+pop
+pop
+pop
+push главный
+pop
+push наот
+pop
+push ныйто
+pop
+push э
+pop
+pop
+push рос
+pop
+push э-
+pop
+push от
+push ветный
+pop
+push рос
+pop
+push на
+pop
+pop
+pop
+push э-
+pop
+push эрос4
+push э
+push вопто
+push отвоп
+push вет42
+push главто
+pop
+pop
+pop
+pop
+pop
+push отвоп
+pop
+push от
+push от
+pop
+push вопрос
+push ный
+pop
+pop
+pop
+push ный
+pop
+pop
+pop
+push от42
+push главэ
+push на
+pop
+pop
+push тоный
+push ветна
+pop
+pop
+pop
+push росный5
+push ный
+pop
+push э
+push вопглав
+push 42
+push отный
+pop
+pop
+push рос
+pop
+push ныйглав
+push росна
+push навоп
+pop
+push ныйвоп
+push это
+push то
+pop
+push 42
+pop
+push ный
+push эвет
+pop
+push э
+push нарос
+pop
+pop
+push 42-
+pop
+push главто
+push вопэ
+push от
+pop
+push воп
+print
+pop
+pop
+push рос
+pop
+pop
+push 42
+pop
+pop
+push ветрос
+print
+pop
+pop
+push воп
+push -э
+pop
+pop
+push то
+push ныйна
+push воп
+push росглав
+pop
+push ныйэ
+pop
+push ветрос
+pop
+push глав
+push -глав
+push тоглав
+push то
+push ный
+pop
+pop
+print
+pop
+pop
+pop
+pop
+push -глав
+push от-
+push рос-
+push то
+pop
+pop
+pop
+push э
+push глав
+pop
+pop
+push воп
+pop
+push 42
+pop
+push то
+pop
+pop
+push на
+pop
+push ный-
+pop
+pop
+pop
+push 42от
+push э
+pop
+pop
+pop
+pop
+pop
+pop
+pop
+pop
+push отэ
+push тоный
+pop
+push ныйэ
+pop
+push на
+pop
+push 42рос
+pop
+pop
+push 42
+push на
+pop
+push от
+push вет42
+print
+pop
+pop
+print
+pop
+push вет
+push рос
+pop
+pop
+pop
+push на
+push росглав
+push воп
+pop
+pop
+pop
+pop
+pop
+push э
+pop
+pop
+push ный
+push 42
+pop
+pop
+pop
+pop
+pop
+pop
+push от
+push главот
+pop
+pop
+pop
+pop
+push -
+push 42
+pop
+pop
+push -
+push отэ
+pop
+pop
+pop
+push глав
+push росглав
+push глав
+push 42воп
+pop
+push эрос5
+push глав
+print
+pop
+push э
+pop
+push рос
+pop
+push на
+pop
+pop
+push тоглав
+push 42
+pop
+pop
+pop
+pop
+pop
+pop
+push главвоп6
+push росот
+pop
+push вопрос
+pop
+pop
+push 42глав
+push тоот
+push на
+pop
+pop
+pop
+push навоп
+pop
+push то
+push глав
+pop
+push то
+push -от
+push э
+pop
+push -вет
+pop
+push от
+pop
+print
+print
+pop
+push э
+pop
+push росглав
+pop
+push глав
+pop
+push глав-
+push глав
+pop
+push глав
+pop
+push главрос
+push -
+push отэ
+push от
+pop
+push -глав
+pop
+pop
+pop
+push отна
+pop
+pop
+push 42от
+push от
+pop
+pop
+push нарос
+pop
+push -вет
+push э
+pop
+push вопвет
+pop
+pop
+push 42от
+push ветглав
+pop
+push ветглав
+print
+pop
+push на-
+pop
+pop
+push главвоп7
+push главрос
+pop
+pop
+pop
+pop
+push воп
+push тоот
+push от
+push глав
+pop
+push -рос
+push 42то
+push воп
+push глав
+push навет
+pop
+pop
+pop
+push на
+push рос
+push от
+pop
+push от
+pop
+push главот
+push э
+pop
+pop
+push рос
+push тоэ
+pop
+pop
+pop
+push вопот
+push ветэ
+print
+push э
+pop
+push 42
+pop
+pop
+pop
+push э
+pop
+push рос
+push рос
+pop
+pop
+push ветный
+push вопглав
+pop
+push 42вет
+pop
+push от-
+push то
+pop
+push вет42
+pop
+push ный
+pop
+pop
+push -рос
+push вопна
+pop
+push то
+push от
+push это
+push э
+push тоот
+push вопна
+push ныйрос
+push от
+push -
+pop
+pop
+push на-
+pop
+push на
+push ный42
+push вет
+pop
+push э
+pop
+push воп-
+push э-
+pop
+push главвоп8
+pop
+pop
+print
+pop
+pop
+push воп
+pop
+pop
+push наглав
+push э
+push главна
+push это
+pop
+pop
+pop
+pop
+pop
+push 42
+push 42
+print
+pop
+pop
+push 42э
+pop
+pop
+pop
+print
+pop
+push вопна
+pop
+pop
+push -
+push это
+pop
+push то
+push ный
+pop
+pop
+pop
+push -
+pop
+pop
+pop
+push -на
+print
+push 42-
+push на
+pop
+pop
+pop
+push -на
+pop
+pop
+push наглав
+pop
+push -
+pop
+pop
+push ныйна
+push наот
+pop
+push 42на
+push -
+push на
+pop
+push товет
+push эвет
+print
+pop
+pop
+pop
+pop
+pop
+pop
+push 42
+pop
+pop
+print
+push рос
+push тоглав
+pop
+pop
+push то
+push рос-
+pop
+push ответ
+pop
+pop
+push рос
+pop
+pop
+push вет
+pop
+push вопна
+push 42то
+pop
+push рос
+print
+push эна
+push ный
+push наглав
+pop
+push вопто
+pop
+push на-
+push ветна
+push навет
+pop
+pop
+pop
+push от
+push ный
+pop
+pop
+push вет
+push на
+pop
+push -на
+pop
+pop
+pop
+pop
+pop
+pop
+pop
+push ветрос
+pop
+pop
+pop
+pop
+pop
+pop
+pop
+push отглав
+push э
+push то
+print
+pop
+pop
+push ный
+push -
+push от
+pop
+pop
+push на
+push то
+push -вет
+pop
+push вет
+pop
+pop
+print
+push тоэ
+pop
+push наэ
+pop
+pop
+push вет
+pop
+push ный
+push эот
+pop
+push э42
+pop
+push 42рос
+pop
+pop
+print
+push наглав
+pop
+pop
+push эвоп
+pop
+push росный6
+print
+pop
+push тоный
+push то
+pop
+push ный
+pop
+pop
+push воп
+push росный7
+push росна
+pop
+push э
+pop
+pop
+push глав
+push на
+pop
+pop
+pop
+push воп
+push 42
+pop
+push на
+print
+push -
+push э
+push тоэ
+push 42
+pop
+pop
+pop
+push ответ
+push 42
+pop
+pop
+pop
+pop
+pop
+print
+push ный-
+push главрос
+push воп
+push рос
+push это
+pop
+pop
+pop
+push глав
+pop
+pop
+push ныйвоп
+pop
+push от
+push вет
+push главот
+push ный
+pop
+pop
+pop
+pop
+pop
+push вопрос
+pop
+push 42э
+push на
+push главэ
+pop
+pop
+pop
+push тона
+pop
+print
+print
+push э
+push э
+push росто
+push -
+pop
+push главный
+push глав-
+push от-
+pop
+pop
+print
+pop
+pop
+push рос
+push от
+push тоглав
+push глав
+push ветвоп
+push -э
+push 42глав
+pop
+pop
+push ный
+pop
+push э
+pop
+push 42
+push 42рос
+push -от
+push глав
+pop
+push -
+print
+push вопный
+pop
+print
+pop
+push э
+pop
+pop
+push -
+push то
+push вопвет
+push ветный
+push глав
+push то
+pop
+push воп
+push отна
+push глав
+pop
+push от
+pop
+push то
+pop
+pop
+pop
+pop
+push наэ
+push тона
+print
+pop
+push вопна
+push ный-
+push торос
+push -вет
+push то
+push отвоп
+pop
+push 42
+push э
+push отвоп
+push ный
+push 42
+pop
+pop
+push 42
+pop
+push ныйот
+pop
+push -
+pop
+push ветот
+pop
+pop
+pop
+pop
+push ныйто
+pop
+push ный
+pop
+pop
+pop
+push глав
+push -42
+push росот
+pop
+push эна
+pop
+pop
+push ный
+push то
+pop
+push ный
+pop
+pop
+push товоп
+pop
+push наный
+pop
+print
+push ветглав
+push росто
+push вет
+pop
+push ныйрос
+push глав-
+pop
+pop
+pop
+push наный
+pop
+pop
+pop
+pop
+push ветглав
+pop
+pop
+push 42
+push отна
+push от
+pop
+pop
+pop
+pop
+pop
+push эот
+pop
+pop
+pop
+pop
+pop
+pop
+push ный
+push 42
+pop
+push наглав
+pop
+pop
+push воп
+push вет
+push вет
+print
+pop
+push э
+push то
+push главна
+pop
+push навоп
+pop
+pop
+pop
+push воп
+pop
+push ответ
+push рос
+push глав
+pop
+pop
+pop
+push 42
+pop
+pop
+push ветна
+pop
+push главна
+push ный42
+pop
+print
+push вет
+pop
+pop
+push глав
+push то42
+pop
+pop
+pop
+pop
+push эный
+pop
+pop
+pop
+push вет42
+pop
+pop
+pop
+push на
+pop
+push 42воп
+push торос
+push э
+push э
+push рос
+push вет
+push отглав
+push 42от
+pop
+pop
+push э-
+push вопглав
+pop
+pop
+pop
+pop
+push ный
+pop
+pop
+push главэ
+push -от
+pop
+push -
+pop
+push ветэ
+push воп
+push 42от
+push от
+pop
+push ответ
+push от
+pop
+push отвоп
+pop
+pop
+pop
+pop
+pop
+pop
+push рос
+pop
+pop
+pop
+pop
+pop
+push ветный
+push ныйвоп
+push ветот
+pop
+pop
+pop
+push воп
+pop
+pop
+push вет
+pop
+push вопный
+push наный
+pop
+push ный
+pop
+pop
+pop
+pop
+push рос
+pop
+push то
+push глав
+push главвет
+push э
+pop
+push росглав
+push от
+pop
+push -э
+pop
+pop
+pop
+push вет
+push рос
+pop
+pop
+pop
+pop
+pop
+pop
+push от
+pop
+pop
+pop
+push ветный
+pop
+pop
+push то
+pop
+push вет
+push от
+push глав
+push вет
+push главот
+push ный
+push 42ный
+push вет
+push э-
+push на
+push то
+push -
+print
+push эвоп
+push от
+push ныйвет
+pop
+pop
+push глав-
+push 42
+push 42
+pop
+push э
+pop
+push 42
+print
+pop
+push 42воп
+pop
+push росвет
+push отглав
+push -
+push ный
+pop
+pop
+push ветна
+push то
+push ный
+pop
+pop
+pop
+pop
+pop
+push то
+push -
+pop
+pop
+pop
+pop
+pop
+pop
+push ный
+push ветный
+push навоп
+push воп-
+push вет
+push на
+push ныйто
+push то42
+push воп
+pop
+pop
+push -ный
+print
+pop
+pop
+pop
+pop
+push ныйот
+pop
+push главный
+push от
+push ный42
+pop
+push -
+push глав
+print
+pop
+pop
+pop
+pop
+print
+pop
+pop
+pop
+pop
+push вет
+push 42-
+pop
+push глав-
+push воп
+push главвет
+push ный
+pop
+push рос
+pop
+print
+pop
+pop
+push ныйто
+pop
+push 42вет
+push росна
+push воп
+pop
+print
+pop
+push навет
+push э
+pop
+pop
+pop
+print
+push ный
+pop
+pop
+push от
+push на
+push эрос6
+pop
+pop
+pop
+push воп42
+push ветэ
+pop
+push то
+print
+pop
+push -то
+pop
+push -на
+print
+push то
+pop
+pop
+pop
+push вет
+pop
+push на
+pop
+push 42от
+push ный42
+push вопэ
+push э42
+print
+push тоглав
+push ныйглав
+push воп
+pop
+push вопот
+push ныйот
+pop
+push 42
+push то
+pop
+push э
+push росна
+pop
+pop
+push рос
+pop
+pop
+push глав
+push то-
+push отглав
+push э-
+push э
+pop
+pop
+push от
+push э
+pop
+pop
+pop
+pop
+push главвоп9
+pop
+pop
+pop
+push 42рос
+push вопна
+push 42на
+pop
+push воп
+push э42
+pop
+pop
+pop
+push то
+pop
+push от
+push воп
+pop
+push эрос7
+pop
+pop
+push 42
+print
+push от42
+pop
+push росный8
+pop
+pop
+pop
+push 42
+push рос
+push э
+pop
+pop
+push наэ
+push ныйвоп
+pop
+push ветвоп
+push глав
+push вет
+push на
+pop
+push глав
+pop
+push 42ный
+pop
+push 42
+pop
+push то
+push росный9
+pop
+push ветто
+pop
+pop
+push наглав
+push вопный
+push 42от
+push ветэ
+pop
+pop
+push 42ный
+push вет
+push отный
+push ныйвоп
+push наэ
+push наэ
+push росглав
+pop
+push на
+pop
+pop
+push росна
+pop
+push воп
+pop
+push глав
+push на
+pop
+pop
+print
+pop
+pop
+push глав
+push на
+pop
+push главэ
+push главто
+pop
+push ветна
+pop
+print
+print
+push ветэ
+push воп
+pop
+push э
+pop
+push главна
+pop
+pop
+pop
+push товет
+pop
+push наэ
+print
+print
+push главна
+pop
+pop
+pop
+push э
+push рос
+push то
+pop
+pop
+pop
+push нато
+pop
+pop
+push э
+push навет
+pop
+pop
+push ный
+push 42то
+pop
+pop
+print
+push 42
+pop
+pop
+push ный
+push воп
+push -от
+push вопот
+pop
+pop
+pop
+pop
+pop
+print
+push глав
+pop
+push на42
+pop
+push отэ
+push на42
+pop
+pop
+push -то
+push главвет
+push 42глав
+pop
+pop
+push то
+push от
+push ветный
+push наот
+push 42рос
+push 42
+print
+push ный
+push 42глав
+push 42то
+

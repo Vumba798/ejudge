@@ -1,0 +1,32 @@
+set 0 0.125
+set 20 0.250
+add 591
+print
+add 742
+add 423
+add 25
+add 275
+print
+add 887
+add 298
+add 501
+add 416
+add 120
+print
+add 339
+add 444
+add 45
+add 766
+add 379
+print
+add 784
+add 11
+add 221
+add 73
+add 440
+print
+search 25
+search 26
+search 37
+search 48
+search 4

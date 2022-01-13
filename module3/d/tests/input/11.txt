@@ -1,0 +1,29 @@
+set 20 0.5
+add 3759
+add 691
+add 3544
+add 1509
+add 1010
+add 523
+add 1191
+add 1870
+add 3707
+add 2571
+add 1529
+add 2409
+add 3324
+add 2065
+add 1222
+add 1180
+add 1507
+print
+search 2679
+search 237
+search 3497
+search 1803
+search 2933
+search 2346
+search 1031
+search 3650
+search 3475
+search 2854

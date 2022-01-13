@@ -1,0 +1,27 @@
+min
+max
+add 8 10
+add 4 14
+add 7 15
+add 9 11
+add 3 13
+add 5 16
+add 88 1
+add 11 2
+add 6 18
+min
+max
+print
+extract
+min
+delete 88
+max
+add 500 1
+add 1000 -2
+max
+delete 1000
+max
+extract
+min
+max
+print

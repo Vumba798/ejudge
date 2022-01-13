@@ -1,0 +1,22 @@
+set 20 0.6
+add 7
+add 5
+add 14
+add 12
+add 4
+add 1
+add 2
+add 3
+add 20
+add 40
+set 20 0.015
+add 6
+add 60
+print
+search 71
+search 1
+search 13
+search 3
+search 8
+search 6
+search 19

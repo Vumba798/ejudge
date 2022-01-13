@@ -1,0 +1,44 @@
+add 27 bit
+add 39 byte
+add 3 KB
+add 34 ni
+add 76 u
+add -71 zhe
+add 56 ly
+add 29 to
+add 43 9V
+add 2 5V
+add 12 1.5V
+add 5 2k
+add 40 17
+add 10 S
+add 25 M
+add -2 Y
+add 23 S
+add 4 L
+add 33 XL
+add 51 infinity
+add 11 QX
+add -1 vs
+add 18 BMW
+add 0 X5
+add 41 sdsds
+extract
+delete 10
+extract
+delete 33
+delete 12
+extract
+delete 29
+extract
+delete 34
+delete 76
+extract
+delete 18
+extract
+delete 51
+extract
+delete 23
+delete 40
+delete 39
+print

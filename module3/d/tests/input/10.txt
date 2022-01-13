@@ -1,0 +1,28 @@
+set 100 0.1
+add 3983
+add 2715
+add 1208
+add 2657
+add 2433
+add 2756
+add 4091
+add 808
+add 738
+add 3203
+add 2716
+add 2411
+add 3503
+add 2150
+add 920
+add 1676
+add 3766
+print
+search 1690
+search 3892
+search 398
+search 3093
+search 4044
+search 1870
+search 3617
+search 606
+search 3100

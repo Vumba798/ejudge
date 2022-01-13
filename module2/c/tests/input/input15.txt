@@ -1,0 +1,337 @@
+add -801 J
+set -148 D
+delete -7038533419319272287
+delete -148
+search -148
+search -148
+add 437 F
+add -183 H
+max
+max
+add -928 S
+min
+add -557 R
+add -797 E
+set -290 N
+add 420 V
+search -928
+add -465 Y
+delete -2546572055100822424
+max
+delete 420
+add -612 R
+delete 420
+delete -801
+add 15 Y
+min
+add -520 E
+delete 972890547377420593
+add 643 F
+add 300 N
+add 460 U
+min
+search -183
+add -895 E
+delete 988358119738818494
+add 563 _
+add -91 F
+add -886 N
+add -145 U
+add -589 F
+add 504 Y
+delete 643
+add 318 I
+delete -797
+max
+delete 460
+max
+search -465
+search -148
+add 600 D
+delete 600
+set 443 U
+add -263 H
+add -38 J
+delete 300
+delete 437
+search -183
+add 512 H
+set 977 F
+add 699 T
+add 932 A
+add 647 E
+max
+add 377 G
+max
+search 504
+delete -886
+delete 932
+search -520
+add 694 V
+add -198 P
+add 988 P
+min
+add -104 T
+delete -38
+max
+add -955 W
+add 295 _
+add -39 F
+add 822 D
+add 359 F
+add 82 V
+set 944 W
+add 41 Z
+search -955
+max
+add 576 G
+delete -148
+delete 443
+search 563
+add 972 K
+add 250 F
+add -528 T
+delete 460
+set -363 Z
+search 563
+add -147 I
+add -681 J
+add 542 W
+add 301 P
+print
+delete 512
+delete -895
+delete 643
+delete 647
+delete -886
+delete 15
+delete -363
+delete -104
+delete -612
+delete 542
+delete 420
+delete -91
+delete 932
+delete 295
+delete 41
+delete 300
+delete 301
+delete -465
+delete 944
+delete 563
+delete -589
+delete 437
+delete 694
+delete 822
+delete -198
+delete 443
+delete 699
+delete 318
+delete 576
+delete -955
+delete -183
+delete 460
+delete 972
+delete 977
+delete 82
+delete -557
+delete -681
+delete 600
+delete -39
+delete -38
+delete 988
+delete -290
+delete -801
+delete -928
+delete -797
+delete 359
+delete 504
+delete 377
+delete -148
+delete -147
+delete -145
+delete -528
+delete -520
+delete -263
+delete 250
+print
+add 1 _
+add 31 _
+add 3 _
+add 29 _
+add 5 _
+add 27 _
+add 7 E
+add 25 G
+add 9 A
+add 23 G
+add 11 S
+add 21 E
+add 13 T
+add 19 _
+add 15 E
+add 17 R
+add 2 _
+add 30 _
+add 6 I
+add 26 N
+add 10 S
+add 22 A
+add 14 _
+add 18 _
+add 4 T
+add 28 S
+add 12 H
+add 20 I
+add 8 _
+add 24 _
+add 16 O
+print
+add -172 Z
+search -172
+search -172
+search -7631334819234072560
+add 210 N
+delete 210
+search -172
+add -946 _
+search -172
+add -374 J
+set -780 Y
+min
+add -118 F
+max
+add 958 _
+search 210
+min
+add -684 F
+search -684
+set -26 P
+add -860 W
+delete -172
+max
+add -963 _
+delete -374
+delete 210
+add -952 Z
+add -893 E
+search -893
+max
+add 638 D
+min
+search 210
+search -118
+add -763 Z
+delete -118
+add -44 K
+delete -893
+add 578 F
+delete -172
+delete -780
+add -948 G
+delete -684
+delete -684
+search -893
+add 181 N
+delete 2911426167379841858
+delete -374
+add -645 S
+search -374
+search 210
+add -595 O
+max
+max
+set -497 T
+add 377 I
+delete -684
+add -388 N
+add -622 V
+max
+delete -963
+add 654 N
+add 395 G
+set -514 H
+add 322 P
+delete -780
+add -811 O
+min
+delete -952
+search -780
+add 833 O
+add -872 I
+min
+add 138 K
+delete 958
+set 415 I
+delete 210
+min
+add -19 V
+add -21 W
+max
+add 0 S
+set 661 H
+add -366 W
+delete 4640500083313782641
+add -655 N
+min
+add 134 R
+delete 138
+max
+delete 138
+delete 958
+add 497 U
+add 579 D
+set 57 N
+max
+add -189 Y
+search 958
+search -655
+add -318 N
+print
+delete 0
+delete -893
+delete -763
+delete 134
+delete -118
+delete -374
+delete 395
+delete 138
+delete 654
+delete -497
+delete -622
+delete -366
+delete 661
+delete -872
+delete 415
+delete -860
+delete -595
+delete 181
+delete 57
+delete -963
+delete 958
+delete 833
+delete 578
+delete 322
+delete 579
+delete -189
+delete -318
+delete -952
+delete -948
+delete -946
+delete 210
+delete -172
+delete -684
+delete -44
+delete -811
+delete -26
+delete -514
+delete -21
+delete -19
+delete -655
+delete 497
+delete -780
+delete 377
+delete -645
+delete -388
+delete 638
+print
